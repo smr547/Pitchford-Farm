@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pitchford_Farm_1950.kml</name>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0701fc</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0701fc</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Pitchford_Farm_1950</name>
+		<GroundOverlay>
+			<name>Upper_Cordeaux_James_Farm_circa_1950</name>
+			<color>fcffffff</color>
+			<Icon>
+				<href>upper_cordeaux_ad_astra_circa_1950.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>-34.42834468341522</north>
+				<south>-34.43859463081614</south>
+				<east>150.7767614101002</east>
+				<west>150.7593070942042</west>
+				<rotation>-0.6020385622978209</rotation>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>Farmhouse</name>
+			<LookAt>
+				<longitude>150.7674152203528</longitude>
+				<latitude>-34.43285285145186</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01223177874125357</heading>
+				<tilt>0</tilt>
+				<range>407.1808376335319</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin11</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.7670527408508,-34.43299029276752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Outbuilding 1</name>
+			<LookAt>
+				<longitude>150.7674152203528</longitude>
+				<latitude>-34.43285285145186</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01223177874125357</heading>
+				<tilt>0</tilt>
+				<range>407.1808376335319</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin11</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.7672193246142,-34.43311687943422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Outbuilding 2</name>
+			<LookAt>
+				<longitude>150.7674152203528</longitude>
+				<latitude>-34.43285285145186</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01223177874125357</heading>
+				<tilt>0</tilt>
+				<range>407.1808376335319</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin11</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>150.7668470129885,-34.43311962592461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>House Yard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							150.7669057926919,-34.43305496307049,0 150.7669482482147,-34.4330818968003,0 150.7672095357973,-34.43315998614063,0 150.7673075138483,-34.43313572158622,0 150.7674936377712,-34.43297944224228,0 150.767696048849,-34.43274236594772,0 150.7672485749382,-34.43237351445688,0 150.7667621390163,-34.4328341094358,0 150.7669057926919,-34.43305496307049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Orchard</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							150.7659652869405,-34.43400880691508,0 150.7661187726115,-34.4339414455894,0 150.7661808226709,-34.4338390522425,0 150.7662951638999,-34.43374201460946,0 150.7663408848203,-34.43356957457282,0 150.7666641675673,-34.43332168835357,0 150.7665890629622,-34.43328128181501,0 150.7664911162084,-34.43322741048235,0 150.7662069828301,-34.43320321879783,0 150.7658251715484,-34.43327054988439,0 150.765159530974,-34.43366910164777,0 150.765625730498,-34.43407343481495,0 150.7659652869405,-34.43400880691508,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Paddock</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							150.7691366001125,-34.43289560953509,0 150.7691986448523,-34.43285521884275,0 150.7694795136447,-34.43267199446679,0 150.7696591177335,-34.43249414263762,0 150.7696950142603,-34.43236482333576,0 150.7697015572583,-34.4321789417972,0 150.7697374078429,-34.43188793933393,0 150.7697438738075,-34.43160771661095,0 150.7698058371486,-34.43130324073271,0 150.7698252840009,-34.43099616907698,0 150.7700244688909,-34.43090726056259,0 150.7701158271951,-34.4307106272926,0 150.7694886521317,-34.43062739780917,0 150.7694331654049,-34.43071359089548,0 150.7683657206792,-34.43256166169377,0 150.7691366001125,-34.43289560953509,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Walk in</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					150.7834241255772,-34.44168304753065,0 150.7797724175062,-34.43929626491244,0 150.7768322950536,-34.43857437469271,0 150.7749327719943,-34.43872154542945,0 150.7729298518668,-34.4376571358208,0 150.7709856352513,-34.43687363889558,0 150.7689662203377,-34.43671394442877,0 150.7668721285211,-34.43615032151993,0 150.7663225935487,-34.43575840982595,0 150.7664406385014,-34.43454586943054,0 150.7664406813475,-34.43392140990976,0 150.766619018683,-34.43322358954812,0 150.7670495425234,-34.43292972506195,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
