@@ -9,3 +9,7 @@ Here is a aerial photo of the Upper Cordeaux River (circa 1949) showing the area
 
 ## View with Google Earth
 Download [this KML file](./Pitchford_Farm_1950.kml) and open in Google Earth
+
+## History
+
+* Article from the [Illawarra Mercury](https://www.illawarramercury.com.au/story/2530855/the-cordeaux-all-down-to-water/)
